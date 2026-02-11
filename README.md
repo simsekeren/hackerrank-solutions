@@ -2,7 +2,7 @@
 
 | Challenge | Solution | Difficulty | Domain | Subdomain |
 |-----------|----------|------------|--------|-----------|
-| [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Python](./python/solve_loops.py) | Easy | Python | Introduction |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Python](./python/solve_loops.py) | Easy | Python | Introduction |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Python](./python/solve_print_function.py) | Easy | Python | Introduction |
 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Python](./python/solve_python_if_else.py) | Easy | Python | Introduction |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Python](./python/solve_python_division.py) | Easy | Python | Introduction |
